@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AEM Test Samples
 This is a collection of test modules that can be run to validate an AEM cloud-based deployment.
 Tests are written according to [Best practices](https://github.com/adobe/aem-testing-clients/wiki/Best-practices).
@@ -80,3 +81,7 @@ The [UI Testing](https://experienceleague.adobe.com/docs/experience-manager-clou
 * [Creating a page with the admin user](./smoke/src/main/java/com/adobe/cq/cloud/testing/it/smoke/CreatePageAdminIT.java)
 
 * [Creating a page with a transient author user](./smoke/src/main/java/com/adobe/cq/cloud/testing/it/smoke/CreatePageAsAuthorUserIT.java)
+=======
+# AEM-Nagase
+Nagase sample repositroty
+>>>>>>> f53fd8b021d242740caf743bd197eddb3d182064
